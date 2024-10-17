@@ -8,6 +8,6 @@ node_compat = true
 workers_dev = true
 
 [vars]
-# UUID = "d342d11e-d424-4583-b36e-524ab1f0afa4"
+# UUID = "412960e6-8c6c-4190-80c4-7819647fa9f9"
 PROXYIP = "211.230.110.231:50008"
 UUID = "1b6c1745-992e-4aac-8685-266c090e50ea"
